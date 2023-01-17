@@ -26,4 +26,4 @@ LinkedIn: https://www.linkedin.com/in/asdr%C3%BAbal-alfonso-mej%C3%ADa-l%C3%B3pe
 
 
 
-![Full Stack](https://user-images.githubusercontent.com/101151706/212798667-c20f296d-d4de-4b1c-8396-1c365c793952.jpg)
+![Full-stack-Development](https://user-images.githubusercontent.com/101151706/212801904-2fb93196-fe7b-496d-a4e9-f1d37081fcae.gif)
