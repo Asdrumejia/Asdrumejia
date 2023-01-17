@@ -1,3 +1,7 @@
+![Full Stack Developmnet](https://user-images.githubusercontent.com/101151706/212804722-e9127438-5388-4fcd-8869-d1800cb65ca5.jpeg)
+
+
+
 Hola Mundo: Mi nombre es Asdrúbal Alfonso Mejía López, de Magangué - Bolívar, Colombia, soy Administrador Público egresado de la Universidad de Cartagena hace 5 años atras, a comienzos del año anterior por medio de un familiar dicidí darle un giro a mi vida en terminos academicos de manera autodidacta inicialmente, luego entre al Bootcamp Henry Academy sabiendo poco de programacion donde me formé y me gradué como Full Stack Web Developer; en una carrera intensiva con mas de 1000 horas y mas de mucha practica y aprendizaje. Como Full Stack sé desenvolverme tanto en Frontend como en Backend, con una ligera preferencia hacía el Backend a la hora de trabajar. A continuacion desglosaré sobre mi formacion profesional, aprendizaje y personalidad: 
 
 ◈Administrador público y desarrollador web Full Stack apasionado por el código JavaScript y el desarrollo de aplicaciones en React.
