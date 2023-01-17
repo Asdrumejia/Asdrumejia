@@ -10,10 +10,15 @@ Hola Mundo: Mi nombre es Asdrúbal Alfonso Mejía López, de Magangué - Bolíva
 
 
 Si quieres saber más:
+
 Envíame Email a: asdrumejia19@gmail.com
+
 Llámame al: +573004071981 - +573106107734
+
 Whatsapp: +573004071981
+
 LinkedIn: https://www.linkedin.com/in/asdr%C3%BAbal-alfonso-mej%C3%ADa-l%C3%B3pez-929763182/
+
 Ó envíame un mensaje a este perfil de GitHub
 
 
