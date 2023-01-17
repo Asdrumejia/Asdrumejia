@@ -9,6 +9,9 @@ Hola Mundo: Mi nombre es Asdrúbal Alfonso Mejía López, de Magangué - Bolíva
 ◈Experiencia en FrontEnd, BackEnd y Bases de Datos.
 
 
+
+
+
 Si quieres saber más:
 
 Envíame Email a: asdrumejia19@gmail.com
