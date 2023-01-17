@@ -16,4 +16,6 @@ Whatsapp: +573004071981
 LinkedIn: https://www.linkedin.com/in/asdr%C3%BAbal-alfonso-mej%C3%ADa-l%C3%B3pez-929763182/
 Ó envíame un mensaje a este perfil de GitHub
 
-![JS](https://user-images.githubusercontent.com/101151706/212798151-56cf3439-463d-4785-877d-ffea7fe40c8b.gif)
+
+
+![Full Stack](https://user-images.githubusercontent.com/101151706/212798667-c20f296d-d4de-4b1c-8396-1c365c793952.jpg)
