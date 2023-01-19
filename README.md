@@ -24,7 +24,7 @@ Llámame al: +573004071981 - +573106107734
 
 Whatsapp: +573004071981
 
-LinkedIn: https://www.linkedin.com/in/asdr%C3%BAbal-alfonso-mej%C3%ADa-l%C3%B3pez-929763182/
+LinkedIn: https://www.linkedin.com/in/asdrubal-mejia-lopez/
 
 Ó envíame un mensaje a este perfil de GitHub
 
