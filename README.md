@@ -9,9 +9,13 @@ Si quieres saber más:
 
 
 Envíame Email a: asdrumejia19@gmail.com
+
 Llámame al: +573004071981 - +573106107734
+
 Whatsapp: +573004071981
+
 LinkedIn: https://www.linkedin.com/in/asdrubal-mejia-lopez/
+
 Ó envíame un mensaje a este perfil de GitHub
 
 
