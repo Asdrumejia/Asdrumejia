@@ -1,18 +1,7 @@
 ![Full Stack Developmnet](https://user-images.githubusercontent.com/101151706/212804722-e9127438-5388-4fcd-8869-d1800cb65ca5.jpeg)
 
 
-
-Hola Mundo: Mi nombre es Asdrúbal Alfonso Mejía López, de Magangué - Bolívar, Colombia, soy Administrador Público egresado de la Universidad de Cartagena hace 5 años atras, a comienzos del año anterior por medio de un familiar dicidí darle un giro a mi vida en terminos academicos de manera autodidacta inicialmente, luego entré al Bootcamp Henry Academy sabiendo poco de programación donde me formé y me gradué como Full Stack Web Developer; en una carrera intensiva de 1000 horas y mas de mucha practica y aprendizaje. Como Full Stack sé desenvolverme tanto en Frontend como en Backend, con una ligera preferencia hacía el Backend a la hora de trabajar. A continuacion desglosaré sobre mi formacion profesional, aprendizaje y personalidad: 
-
-◈Administrador Público y Desarrollador Web Full Stack apasionado por el código JavaScript y el desarrollo de aplicaciones en React y Node.
-
-◈Más de 1000 horas de experiencia en Html, Css, JavaScript, React, Redux, Node, Express MySql, Sequelize, PostgreSQL, Git, Github entre otras tecnologías.
-
-◈Me considero una persona humilde, apasionada, trabajadora, entusiasta, empática, amable, gran colaborador de equipo y con muchas ganas de aprender más; cualidades que describen mi personalidad y sentido de pertenencia.
-
-◈Experiencia en FrontEnd, BackEnd y Bases de Datos.
-
-
+Hola Mundo: Hola mi nombre es Asdrúbal Mejía López, Soy un desarrollador web de Colombia, con experiencia práctica tanto en el Front-End como en el Back-End, apasionado por el código y el desarrollo de aplicaciones en React, Angular, NodeJs, PostgreSQL y MongoDB entre otras tecnologías, estoy interesado en adquirir nuevas experiencias en el mundo IT, actualmente tengo conocimientos en los lenguajes JavaScript y TypeScript. Me considero una persona humilde, apasionada, trabajador, entusiasta, empático, amable, gran colaborador en equipo y con muchas ganas de seguir aprendiendo más en este mundo para visualizar otras realidades y seguir trabajando en proyectos que involucren motivos y causas reales.
 
 
 
